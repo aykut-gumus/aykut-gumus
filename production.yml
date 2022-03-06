@@ -1,0 +1,21 @@
+version: '3'
+services:
+  nginx:
+    image: nginx:latest
+    container_name: ng01
+    ports:
+      - "80:80"
+    volumes:
+      - .:/code
+      - ./config/nginx/prod/conf.d:/etc/nginx/conf.d
+    depends_on:
+      - apihost
+  apihost:
+    build: .
+    container_name: django01
+    command: bash -c "python manage.py makemigrations && python manage.py migrate && gunicorn -w 3 -b 0.0.0.0:8000 stevebrownlee.wsgi"
+    volumes:
+      - .:/code
+    # expose:
+    #   - "8000"
+

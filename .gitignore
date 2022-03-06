@@ -1,0 +1,14 @@
+node_modules
+bower_components
+__pycache__
+*.pyc
+bin
+obj
+*.db
+*.sqlite3
+.vscode
+lib/
+lib64
+pip-selfcheck.json
+pyvenv.cfg
+*.swp
