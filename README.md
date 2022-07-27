@@ -18,6 +18,10 @@
  <a href="https://git-scm.com/" target="_blank">
     <img src="https://camo.githubusercontent.com/3220bf0ac0ab62fd72ebe46f2317e16a9daf3f90b7c066bcd6589f0181c113f9/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6a6176612e737667" alt="git" width="30" height="30"/>
  </a>
+ 
+ <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.aykutkaskaya.com.tr/assets/img/uploads/blog/chsarp.png" width="30" height="30"/>
+ </a>
 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
