@@ -2,7 +2,7 @@
 
 ### Hi, I'm Aykut Gumus 👋
 
-- 🌱 I’m currently learning Javascript programming.
+- 🌱 I’m currently learning C# programming.
 
 - 📝 My Instagram account, where I share about Front-end: [Fronten(D)unyasi](https://www.instagram.com/frontendunyasi/) 
 
