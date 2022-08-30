@@ -42,8 +42,8 @@
 
 ## Stats
 
-[![Aykut's GitHub stats](https://github-readme-stats.vercel.app/api?username=AykutGm&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Aykut's GitHub stats](https://github-readme-stats.vercel.app/api?username=aykut-gumus&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
 
-[![Aykut's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AykutGm)](https://github.com/anuraghazra/github-readme-stats)
+[![Aykut's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aykut-gumus)](https://github.com/anuraghazra/github-readme-stats)
