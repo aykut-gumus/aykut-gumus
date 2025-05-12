@@ -20,7 +20,7 @@
  </a>
 
  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://w7.pngwing.com/pngs/853/108/png-transparent-web-development-cascading-style-sheets-css3-html-web-design-axe-logo-blue-text-trademark.png" alt="CSS" width="30" height="30"/>
+    <img src="https://pixy.org/src2/632/6321296.png" alt="CSS" width="30" height="30"/>
  </a>
 
   <a href="https://www.w3schools.com/sql/" target="_blank">
@@ -37,7 +37,8 @@
 
 <p>
 <a href="https://www.linkedin.com/in/aykut-gumus/" rel="nofollow">
-    <img src="https://assets.cdn.thewebconsole.com/S3WEB7731/images/LinkedIn-Icon-Logo-60ee34.png?m=d9192effaf87698c9ddfc7e701af7fc7"></a>
+    <img src="https://assets.cdn.thewebconsole.com/S3WEB7731/images/LinkedIn-Icon-Logo-60ee34.png?m=d9192effaf87698c9ddfc7e701af7fc7" alt="linkedln" width="30" height="30>
+</a>
 </p>
 
 ## Stats
