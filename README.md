@@ -27,7 +27,7 @@
     <img src="https://www.windocks.com/hubfs/footer%20pages/azure-sql-banner.png" alt="SQL" width="30" height="30"/>
  </a>
 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+ <a href="https://www.w3schools.com/js/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
  </a>
 </p> 
@@ -37,8 +37,8 @@
 
 <p>
 <a href="https://www.linkedin.com/in/aykut-gumus/" rel="nofollow">
-    <img src="https://assets.cdn.thewebconsole.com/S3WEB7731/images/LinkedIn-Icon-Logo-60ee34.png?m=d9192effaf87698c9ddfc7e701af7fc7" alt="linkedln" width="30" height="30>
-</a>
+    <img src="https://assets.cdn.thewebconsole.com/S3WEB7731/images/LinkedIn-Icon-Logo-60ee34.png?m=d9192effaf87698c9ddfc7e701af7fc7" alt="linkedln" width="50" height="50">
+ </a>
 </p>
 
 ## Stats
