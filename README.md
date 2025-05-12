@@ -22,13 +22,9 @@
  <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://w7.pngwing.com/pngs/853/108/png-transparent-web-development-cascading-style-sheets-css3-html-web-design-axe-logo-blue-text-trademark.png" alt="CSS" width="30" height="30"/>
  </a>
- 
- <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.aykutkaskaya.com.tr/assets/img/uploads/blog/chsarp.png" width="30" height="30"/>
- </a>
 
   <a href="https://www.w3schools.com/sql/" target="_blank">
-    <img src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png" alt="SQL" width="30" height="30"/>
+    <img src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png" alt="SQL" width="50" height="30"/>
  </a>
 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
