@@ -2,7 +2,7 @@
 
 ### Hi, I'm Aykut Gumus 👋
 
-- 🌱 I’m currently learning C# programming.
+- 🌱 I’m currently learning Object Oriented Programming.
 
 - 📝 My Instagram account, where I share about Front-end: [Fronten(D)unyasi](https://www.instagram.com/frontendunyasi/) 
 
@@ -37,7 +37,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/aykut-gumus/" rel="nofollow">
-    <img src="https://assets.cdn.thewebconsole.com/S3WEB7731/images/LinkedIn-Icon-Logo-60ee34.png?m=d9192effaf87698c9ddfc7e701af7fc7" alt="linkedln" width="50" height="50">
+    <img src="https://assets.cdn.thewebconsole.com/S3WEB7731/images/LinkedIn-Icon-Logo-60ee34.png?m=d9192effaf87698c9ddfc7e701af7fc7" alt="linkedln" width="60" height="50">
  </a>
 </p>
 
