@@ -26,11 +26,11 @@
  <a href="https://www.w3schools.com/js/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
  </a>
-</p>
 
   <a href="https://www.w3schools.com/sql/" target="_blank">
     <img src="https://www.windocks.com/hubfs/footer%20pages/azure-sql-banner.png" alt="SQL" width="40" height="30"/>
  </a>
+ </p>
 
 ## Connect with me
 
