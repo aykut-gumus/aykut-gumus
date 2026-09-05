@@ -63,30 +63,6 @@ Building software, exploring AI Agents, and turning ideas into practical solutio
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aykut-gumus&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykut-gumus&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aykut-gumus&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🌐 KardenTech Web Page
