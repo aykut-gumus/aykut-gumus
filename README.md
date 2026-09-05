@@ -24,42 +24,62 @@ Building software, exploring AI Agents, and turning ideas into practical solutio
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering Master's Student
-- 💻 Interested in Software Development & Engineering
-- 🤖 Exploring AI Agents and AI-powered applications
-- 🌐 Building with modern web technologies
-- 🚀 Always learning, experimenting, and building
+- Computer Engineering Master's Student
+- Interested in Software Development & Engineering
+- Exploring AI Agents and AI-powered applications
+- Building with modern web technologies
+- Always learning, experimenting, and building
 
 ---
 
 ## 🧠 Tech Stack
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🤖 AI & Intelligent Systems
 
-![AI Agents](https://img.shields.io/badge/AI%20Agents-6E40C9?style=for-the-badge)
+<img src="https://img.shields.io/badge/AI%20Agents-6E40C9?style=for-the-badge" />
+
+</td>
+<td width="50%" valign="top">
 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" />
 </p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🌐 Web Development
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" />
 </p>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🛠️ Tools & Workflow
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -110,20 +130,6 @@ I enjoy understanding how things work, experimenting with new technologies, and 
 ---
 
 <div align="center">
-
-## 🤝 Let's Connect
-
-<a href="https://github.com/aykut-gumus">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/aykut-gumus/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/frontendunyasi/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<br><br>
 
 ### 🚀 Always learning. Always building.
 
