@@ -1,49 +1,154 @@
-<img src="/images/softdev.png" height="300" align="right" />
+<div align="center">
 
-### Hi, I'm Aykut Gumus 👋
+# 👋 Hi, I'm Aykut Gümüş
 
-- 🌱 I’m currently learning Object Oriented Programming.
+### Computer Engineer · Software Developer · AI Explorer
 
-- 📝 My Instagram account, where I share about Front-end: [Fronten(D)unyasi](https://www.instagram.com/frontendunyasi/) 
+Building software, exploring AI Agents, and turning ideas into practical solutions.
 
-- 📫 How to reach me **gumus.aykut@gmail.com**
+<br>
 
-## Technologies
+<a href="https://github.com/aykut-gumus">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aykut-gumus/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/frontendunyasi/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-<p align="left"> 
- <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
- </a>
- 
- <a href="https://www.w3schools.com/html/" target="_blank">
-    <img src="https://clipartcraft.com/images/html5-logo-png-transparent-5.png" alt="HTML" width="30" height="30"/>
- </a>
+</div>
 
- <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://pixy.org/src2/632/6321296.png" alt="CSS" width="30" height="30"/>
- </a>
+---
 
- <a href="https://www.w3schools.com/js/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
- </a>
+## 👨‍💻 About Me
 
-  <a href="https://www.w3schools.com/sql/" target="_blank">
-    <img src="https://www.windocks.com/hubfs/footer%20pages/azure-sql-banner.png" alt="SQL" width="40" height="30"/>
- </a>
- </p>
+- 🎓 Computer Engineering Master's Student
+- 💻 Interested in Software Development & Engineering
+- 🤖 Exploring AI Agents and AI-powered applications
+- 🌐 Building with modern web technologies
+- 🚀 Always learning, experimenting, and building
 
-## Connect with me
+---
+
+## 🧠 Tech Stack
+
+### 🤖 AI & Intelligent Systems
+
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6E40C9?style=for-the-badge)
+
+### 💻 Programming Languages
 
 <p>
-<a href="https://www.linkedin.com/in/aykut-gumus/" rel="nofollow">
-    <img src="https://assets.cdn.thewebconsole.com/S3WEB7731/images/LinkedIn-Icon-Logo-60ee34.png?m=d9192effaf87698c9ddfc7e701af7fc7" alt="linkedln" width="60" height="50">
- </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
 </p>
 
-## Stats
+### 🌐 Web Development
 
-[![Aykut's GitHub stats](https://github-readme-stats.vercel.app/api?username=aykut-gumus&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
+</p>
 
-## Languages
+### 🛠️ Tools & Workflow
 
-[![Aykut's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aykut-gumus)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aykut-gumus&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykut-gumus&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aykut-gumus&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 KardenTech Web Page
+
+Corporate web project developed with modern web technologies.
+
+**PHP · HTML · CSS**
+
+→ [View Repository](https://github.com/aykut-gumus/kardentech-web-page)
+
+---
+
+### 🎁 GiftWebApp
+
+A web application focused on providing personalized gift suggestions.
+
+**TypeScript · Web Development**
+
+→ [View Repository](https://github.com/aykut-gumus/GiftWebApp)
+
+---
+
+### 🏠 Real Estate & Booking Site
+
+A real estate and booking platform where users can browse, filter, and book properties for rent or purchase.
+
+**HTML · CSS · Web Development**
+
+→ [View Repository](https://github.com/aykut-gumus/Real-estate-and-booking-site)
+
+---
+
+## 🌱 Currently Exploring
+
+**AI Agents · AI-assisted Development · Software Engineering · Modern Web Technologies**
+
+---
+
+## 💡 My Development Philosophy
+
+> **Learn → Build → Break → Fix → Improve → Repeat.**
+
+I enjoy understanding how things work, experimenting with new technologies, and turning ideas into practical software.
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<a href="https://github.com/aykut-gumus">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aykut-gumus/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/frontendunyasi/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br><br>
+
+### 🚀 Always learning. Always building.
+
+</div>
